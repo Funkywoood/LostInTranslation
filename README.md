@@ -62,7 +62,7 @@ Die App ist mit .NET 8.0 als WPF-Anwendung (Windows Presentation Foundation) ent
 
 ---
 
-## 👤 Autor
+## 🧑‍💻 Autor
 
-- **[Roli Spichtig]**
+- **Roli Spichtig**
 - Kontakt: [https://rsfunkyweb.azurewebsites.net/]
